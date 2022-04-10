@@ -1,0 +1,1 @@
+Jogo jokenpo desenvolvido como atividade do curso de lógica de programação.
